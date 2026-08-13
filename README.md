@@ -1,7 +1,8 @@
-<marquee behavior="scroll" direction="right" scrollamount="5">
-  <img width="198" height="234" alt="isaac-drip" src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" />
-</marquee>
-
+<p align="center">
+  <marquee direction="right" scrollamount="5">
+    <img src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" width="198" height="234" alt="isaac-drip" />
+  </marquee>
+</p>
 <!--
 **m-agapto/m-agapto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
