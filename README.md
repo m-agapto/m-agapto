@@ -1,4 +1,4 @@
-<img width="200" height="217" alt="isaac-drip" src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" />
+<img width="198" height="234" alt="isaac-drip" src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" />
 
 
 <!--
