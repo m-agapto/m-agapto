@@ -1,5 +1,5 @@
 <img width="99" height="117" alt="isaac-drip" src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" />
-## Hi there 👋
+
 
 <!--
 **m-agapto/m-agapto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
