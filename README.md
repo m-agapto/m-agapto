@@ -1,8 +1,7 @@
-<style>
-  <marquee direction="left" scrollamount="5">
+<marquee direction="left" scrollamount="5">
     <img src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" width="198" height="234" alt="isaac-drip" />
-  </marquee>
-</style>
+</marquee>
+
 
 
 
