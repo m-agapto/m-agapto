@@ -1,5 +1,9 @@
-<img src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" width="59" height="68" alt="isaac-drip" />
+<img src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" width="59" height="68" alt="isaac-drip" /><br>
 
+<div style="display: inline-block">
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/><ln>
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/><br>
+</div>
 
 
 <!--
