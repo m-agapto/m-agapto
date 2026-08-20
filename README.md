@@ -5,7 +5,7 @@ linguagens and tools
 
 |<kbd>back-end</kbd>|
 | :---: |
-| <table width="100%"><tr><td align="left" border="0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" /></td><td align="right" border="0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30" /></td></tr></table> |
+| <table width="100%"><tr><td align="left" border="0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30" /></td></tr></table> |
 
 
 
