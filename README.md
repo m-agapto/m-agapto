@@ -1,7 +1,4 @@
 <img src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" width="59" height="68" alt="isaac-drip" /><br> 
-___
-linguagens and tools                                                                                                                     
-
 
 |<kbd>back-end</kbd>|
 | :---: |
