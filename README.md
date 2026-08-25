@@ -1,13 +1,9 @@
 <img src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" width="59" height="68" alt="isaac-drip" /><br> 
 
-|<kbd>back-end</kbd>|
-| :---: |
-| <kbd><table width="100%"><tr><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" /></tr></table></kbd>|
 
-|<kbd>front-end</kbd>|
-| :---: |
-| <kbd><table width="100%"><tr><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></tr></table></kbd>|
-
+| <kbd>back-end</kbd> | <kbd>front-end</kbd> |
+| :---: | :---: |
+| <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/></kbd> |<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></kbd> |**
 <!--
 **m-agapto/m-agapto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
