@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/76193ece-1f93-42c1-bb4f-9a4d5e7e23fe" width="59" height="68" alt="isaac-drip" /><br> 
+<img width="128" height="100" alt="isaac drip" src="https://github.com/user-attachments/assets/a02f2fdf-4111-4361-8df9-3d1576a97b30" />
 
 
 | <kbd>back-end</kbd> | <kbd>front-end</kbd> |
