@@ -1,21 +1,20 @@
-<img width="128" height="100" alt="isaac drip" src="https://github.com/user-attachments/assets/a02f2fdf-4111-4361-8df9-3d1576a97b30" />
+<div align="center">
 
+  <h2>▰ CONTRIBUTION ARCADE</h2>
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-ONLINE-B2E50F?style=flat-square&labelColor=080B10">
+    <img src="https://img.shields.io/badge/GAME-PACMAN-1CBBD0?style=flat-square&labelColor=080B10">
+  </p>
 
-| <kbd>back-end</kbd> | <kbd>front-end</kbd> |
-| :---: | :---: |
-| <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/></kbd> |<kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></kbd> |**
+  <img
+    src="https://raw.githubusercontent.com/m-agapto/m-agapto/output/pacman-contribution-graph-dark.svg"
+    width="100%"
+    alt="Pacman Contribution Graph"
+  />
 
-<!--
-**m-agapto/m-agapto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <img src="https://img.shields.io/badge/CODE-BUILD-0F355F?style=flat-square">
+    <img src="https://img.shields.io/badge/KEEP-CREATING-B2E50F?style=flat-square">
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
